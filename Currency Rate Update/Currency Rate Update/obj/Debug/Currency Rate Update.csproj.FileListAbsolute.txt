@@ -1,0 +1,5 @@
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\Currency Rate Update\Currency Rate Update\bin\Currency Rate Update.dll
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\Currency Rate Update\Currency Rate Update\bin\Currency Rate Update.pdb
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\Currency Rate Update\Currency Rate Update\obj\Debug\Currency Rate Update.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\Currency Rate Update\Currency Rate Update\obj\Debug\Currency Rate Update.dll
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\Currency Rate Update\Currency Rate Update\obj\Debug\Currency Rate Update.pdb

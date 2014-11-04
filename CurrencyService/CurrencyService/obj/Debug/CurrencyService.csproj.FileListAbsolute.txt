@@ -1,0 +1,5 @@
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\CurrencyService\CurrencyService\bin\CurrencyService.dll
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\CurrencyService\CurrencyService\bin\CurrencyService.pdb
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\CurrencyService\CurrencyService\obj\Debug\CurrencyService.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\CurrencyService\CurrencyService\obj\Debug\CurrencyService.dll
+C:\Users\Ross\Desktop\HDip Computing 2013-2014\Semester 2\Web\Final Assignment\CurrencyService\CurrencyService\obj\Debug\CurrencyService.pdb
